@@ -29,8 +29,6 @@ I love learning new technologies and tackling challenges that push me to grow. M
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanrojas010101&hide_progress=true)
 
-![Snake animation](https://github.com/MGBrave/martageraldo/blob/output/github-contribution-grid-snake.svg)
-
 ### 🌐 Frontend technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -56,3 +54,5 @@ I love learning new technologies and tackling challenges that push me to grow. M
 
 ### 🖥️ Workspace Setup
 ![vs-code](https://img.shields.io/badge/VS_Code-198CCD?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+![Snake animation](https://github.com/MGBrave/martageraldo/blob/output/github-contribution-grid-snake.svg)
